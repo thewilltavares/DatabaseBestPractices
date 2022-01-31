@@ -12,6 +12,6 @@ Created by Curt Coker
 [Performance Considerations](files/06_PerformanceConsiderations.md)<br>
 [Source Control Requirements](files/07_SourceControlRequirements.md)<br>
 [How To Add Visual Studio TFS Source Control Extension](files/08_HowToAddVisualStudioTFSSourceControlExtension.md)<br>
-[Idempotent Scripting Techniques](09_IdempotentScriptingTechniques.md)<br>
+[Idempotent Scripting Techniques](files/09_IdempotentScriptingTechniques.md)<br>
 [SQL Migration](files/10_SQLServerMigration.md)<br>
 [ROLLBACK and Named Transactions](files/11_ROLLBACKandNamedTransactionsinSQLServer.md)

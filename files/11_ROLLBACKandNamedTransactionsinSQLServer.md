@@ -1,7 +1,3 @@
--by Curt Coker
-
-----------
-
 A ROLLBACK of a named transaction initiated by a named BEGIN TRANSACTION will fail with an error.  The correct way to ROLLBACK only the work done in a called procedure is to do a SAVE TRANSACTION instead of a BEGIN TRANSACTION if the calling process already started a transaction.  If a SAVE TRANSACTION is used instead of BEGIN TRANSACTION, then a COMMIT should not be performed, since a COMMIT will COMMIT the work of the calling procedure.
 
 In the following example, ROLLBACK TRANSACTION [Tran1] will fail because the [Tran1] transaction does not exist:
