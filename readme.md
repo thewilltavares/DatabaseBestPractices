@@ -15,5 +15,5 @@ Created by Curt Coker
 [Idempotent Scripting Techniques](files/09_IdempotentScriptingTechniques.md)<br>
 [SQL Migration](files/10_SQLServerMigration.md)<br>
 [ROLLBACK and Named Transactions](files/11_ROLLBACKandNamedTransactionsinSQLServer.md)<br>
-[SQL User Permissions](files/12_SQLUserPermissions)
+[SQL User Permissions](files/12_SQLUserPermissions.md)
 
